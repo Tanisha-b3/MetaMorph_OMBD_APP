@@ -74,9 +74,9 @@ export OMDB_API_KEY=your_api_key_here
 ### ⚠️ Restart your IDE / terminal after setting the variable.
 
 - ⚙️ Configuration
+```bash
 - application.properties
 - server.port=8080
-```bash
 omdb.api.url=https://www.omdbapi.com/
 omdb.api.key=${OMDB_API_KEY}
 
