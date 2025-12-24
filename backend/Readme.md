@@ -75,8 +75,8 @@ export OMDB_API_KEY=your_api_key_here
 
 - ⚙️ Configuration
 ```bash
-- application.properties
-- server.port=8080
+application.properties
+server.port=8080
 omdb.api.url=https://www.omdbapi.com/
 omdb.api.key=${OMDB_API_KEY}
 
